@@ -56,7 +56,6 @@ In Home view, all the views button will be available. User will land on specific
 - Marketing View
 - Supply chain View
 - Executive View
-- Products
-- Support
+- Help
   # Live DASHBOARD LINK :
   https://app.powerbi.com/view?r=eyJrIjoiNGFiODdmOTEtODNlZS00Mzc3LTgxNmItNzE0YWUwZDY5NGRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9

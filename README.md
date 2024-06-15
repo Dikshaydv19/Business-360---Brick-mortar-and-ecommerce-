@@ -58,4 +58,4 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 - Help
   # Live DASHBOARD LINK :
-  https://app.powerbi.com/view?r=eyJrIjoiNGFiODdmOTEtODNlZS00Mzc3LTgxNmItNzE0YWUwZDY5NGRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+  https://app.powerbi.com/groups/me/reports/4db65c15-6995-4b09-914e-e6173eb8ea34/ReportSectionf667a899e711b19b4836?experience=power-bi
